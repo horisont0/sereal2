@@ -1,0 +1,64 @@
+a:visited{text-decoration:none;color:#fff;}
+a:link{text-decoration:none;color:#fff;}
+	body{background-image:url('img/goo.jpg');}
+	
+	table{
+	text-shadow:5px 7px 7px #000000;
+	color:white;
+	display: block;
+margin:0 auto;
+border-collapse:collapse;
+width:25;
+
+
+}
+
+
+	html { scroll-behavior:smooth}
+	.container{
+	width:1270px;
+	margin:0 auto;
+	font-family:sans-serif;
+	}
+	h1 {
+	text-align: center;
+	background:#9370DB;
+	color:#00FFFF;
+	box-shadow:2px 4px 7px #4B0082;
+	text-shadow:5px 7px 7px #00008B;
+	border-radius:20px;
+	
+	}
+	/*h1:hover{
+	padding:20px;font-size:2.3em;
+	}*/
+	nav img{
+	border-radius: 13px 20px;
+	height:127px;
+	margin:5px;
+	box-shadow: 4px 5px 5px #B8860B;
+	}
+	 nav img:hover {
+	box-shadow: -4px -5px 5px #B8860B;
+   }
+	th{
+	border-top: 1px solid #A9A9A9;
+	background: #B0C4DE;
+	border-radius: 20px 20px;
+	}
+	
+ 
+ 
+	th,td{
+ 
+	box-align: center;
+	text-align: center;
+	
+	width:725px;
+	}
+	.t1{ text-align:right;}
+	
+	 table img{
+		 
+	width:270px;
+	}
